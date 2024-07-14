@@ -13,8 +13,11 @@ This project showcases a responsive landing page for a traveling website. The de
 - **HTML and CSS**: Built with simple and easy-to-understand HTML and CSS.
 
 ## Preview
-
-![Landing Page Screenshot](screenshot.png)
+![Screenshot 2024-07-15 033814](https://github.com/user-attachments/assets/28643e77-1c2f-4d51-9eb6-c27914ba9d8a)
+![Screenshot 2024-07-15 033855](https://github.com/user-attachments/assets/26b87351-ad86-4b76-a4f4-9c05761e5118)
+![Screenshot 2024-07-15 033938](https://github.com/user-attachments/assets/4a3afe94-9ce6-4223-96c3-292ffe80fe3a)
+![Screenshot 2024-07-15 033955](https://github.com/user-attachments/assets/cdadae7e-31e1-4da1-9bfd-cb3384075aa3)
+![Screenshot 2024-07-15 034219](https://github.com/user-attachments/assets/f99d1867-a3e4-4838-8100-c48e0ffcd35e)
 
 ## Usage
 
@@ -26,7 +29,6 @@ To view the landing page, follow these steps:
    ```bash
    cd responsive-travel-landing-page
 3. Open index.html in your web browser to view the landing page.
-
 
 ## Folder Structure
 
@@ -51,5 +53,6 @@ To view the landing page, follow these steps:
     ├── index.html
     └── README.md
 ```
+
 ## Contributing
 If you have suggestions or improvements, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
